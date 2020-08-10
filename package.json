@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eastmann/nodejs-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eastmann/nodejs-unit-testing/issues"
+  },
+  "homepage": "https://github.com/eastmann/nodejs-unit-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
+}
